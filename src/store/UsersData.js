@@ -1,0 +1,22 @@
+export const UsersData = [
+    {
+        id:1,
+        name:"學習如何使用React-Redux",
+        username:"學習一號"
+    },
+    {
+        id:2,
+        name:"學習如何使用React-Redux/toolkit",
+        username:"學習二號"
+    },
+    {
+        id:3,
+        name:"學習如何使用React-Redux，實現CRUD",
+        username:"學習三號"
+    },
+    {
+        id:4,
+        name:"學習如何使用React-Redux/toolkit，實現CRUD",
+        username:"學習四號"
+    }
+]
